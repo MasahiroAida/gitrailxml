@@ -1,0 +1,24 @@
+{
+  "name": "gitrailxml",
+  "version": "1.0.0",
+  "description": "Generate XML history bundles from base and target git branches",
+  "type": "module",
+  "bin": {
+    "gitrailxml": "./bin/gitrailxml.js"
+  },
+  "scripts": {
+    "start": "node ./bin/gitrailxml.js"
+  },
+  "keywords": [
+    "git",
+    "xml",
+    "diff",
+    "history",
+    "cli",
+    "branch"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
