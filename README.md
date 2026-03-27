@@ -176,6 +176,7 @@ index 662c6ff..f739f52 100644
 
 ## Notes and cautions
 
+- The author assumes no responsibility for any issues, damages, or losses caused by the use of this tool.
 - Run the tool inside a Git repository.
 - The tool does **not** run `git fetch`.
 - Branch names are used exactly as provided.

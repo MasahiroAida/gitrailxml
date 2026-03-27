@@ -4,7 +4,7 @@
   "description": "Generate XML history bundles from base and target git branches",
   "type": "module",
   "bin": {
-    "gitrailxml": "./bin/gitrailxml.js"
+    "gitrailxml": "bin/gitrailxml.js"
   },
   "scripts": {
     "start": "node ./bin/gitrailxml.js"
